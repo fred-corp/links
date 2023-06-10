@@ -2,6 +2,25 @@
 
 A collection of links I often forget and have to ask to everyone about.
 
+## Summary
+
+- [Links](#links)
+  - [Summary](#summary)
+  - [HAM](#ham)
+  - [Radioactivity stuff](#radioactivity-stuff)
+  - [License & Acknowledgements](#license--acknowledgements)
+
+## HAM
+
+- [DAPNET](https://www.hampager.de)
+- [MMDVM DAPNET](https://hampager.de/dokuwiki/doku.php?id=mmdvm)
+
+
+## Radioactivity stuff
+
+- [Radiacode Detector](https://radiacode.com/)
+- [X-ray screens](https://www.renex.ru/screens/)
+
 ## License & Acknowledgements
 
 Made with ❤️, lots of ☕️, and lack of 🛌
