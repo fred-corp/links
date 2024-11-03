@@ -8,6 +8,7 @@ A collection of links I often forget and have to ask to everyone about.
   - [Summary](#summary)
   - [HAM](#ham)
   - [Radioactivity stuff](#radioactivity-stuff)
+  - [Electronics etc.](#electronics-etc)
   - [License & Acknowledgements](#license--acknowledgements)
 
 ## HAM
@@ -20,6 +21,10 @@ A collection of links I often forget and have to ask to everyone about.
 
 - [Radiacode Detector](https://radiacode.com/)
 - [X-ray screens](https://www.renex.ru/screens/)
+
+## Electronics etc.
+
+- [Wavedrom timing diagram editor](https://wavedrom.com)
 
 ## License & Acknowledgements
 
